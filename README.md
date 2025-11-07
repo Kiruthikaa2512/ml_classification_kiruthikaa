@@ -128,10 +128,10 @@ jupyter notebook
 
 Then open `mushroom_classification.ipynb` and run the cells in order.
 
-## Project Files
+## 📂 Project Files
 
-- 📓 [Click here to view the Jupyter Notebook](notebooks/mushroom_classification.ipynb)
-- 📝 [Click here to view the Peer Review Markdown file](peer_review/peer_review.md)
+- [Click here to view the Jupyter Notebook](https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/classification_ml_kiruthikaa.ipynb)
+- [Click here to view the Peer Review Markdown file](https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/peer_review.md)
 
 ## Author
 
