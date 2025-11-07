@@ -1,6 +1,4 @@
-# Midterm Project:Classification Analysis - Mushroom Classification Project
-
-# Project 04: Mushroom Classification — Edibility Prediction
+# Midterm Project:Classification Analysis - Mushroom Classification Project — Edibility Prediction
 
 **Author:** Kiruthikaa Natarajan Srinivasan  
 **Date:** November 7, 2025
