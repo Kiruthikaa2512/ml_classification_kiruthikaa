@@ -80,8 +80,8 @@ These features were chosen based on visual dominance in count plots and biologic
 
 | Model              | Setup                         | Accuracy | Key Insight                                      |
 |--------------------|-------------------------------|----------|--------------------------------------------------|
-| Random Forest      | Default settings              | 99.75%   | Nonlinear model captured complex feature interactions |
-| Logistic Regression| max_iter=1000                 | 95.50%   | Good baseline, but limited by linear assumptions |
+| Random Forest      | Default settings              | 100%   | Nonlinear model captured complex feature interactions |
+| Logistic Regression| max_iter=1000                 | 83%   | Good baseline, but limited by linear assumptions |
 
 ## Challenges
 
@@ -128,7 +128,7 @@ jupyter notebook
 
 Then open `mushroom_classification.ipynb` and run the cells in order.
 
-## 📂 Project Files
+## Project Files
 
 - [Click here to view the Jupyter Notebook](https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/classification_ml_kiruthikaa.ipynb)
 - [Click here to view the Peer Review Markdown file](https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/peer_review.md)
