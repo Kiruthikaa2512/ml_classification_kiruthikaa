@@ -3,10 +3,9 @@
 **Author:** Kiruthikaa Natarajan Srinivasan  
 **Date:** November 7, 2025
 
-**Notebook:** https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/classification_ml_kiruthikaa.ipynb
+**Notebook** - [Click here to view the Jupyter Notebook](https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/classification_ml_kiruthikaa.ipynb)
+**Peer Review-** [Click here to view the Peer Review Markdown file](https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/peer_review.md)
 
-
-**Peer Review:**https://github.com/Kiruthikaa2512/ml_classification_kiruthikaa/blob/main/peer_review.md
 
 ## Overview
 
