@@ -9,6 +9,9 @@
 
 This project uses the Mushroom dataset to predict whether a mushroom is **edible** or **poisonous** based on its physical characteristics. The goal is to explore feature patterns, train classification models, and compare their performance. Two models were implemented: **Random Forest** and **Logistic Regression**, using categorical features such as odor, gill size, cap color, and habitat.
 
+## **Extension: Dataset 2**:  
+In addition to the core mushroom classification task, this notebook includes a bonus experiment using the Wine Recognition Dataset to demonstrate workflow generalization to multiclass numeric data.
+
 ## Objectives
 
 - Implement and evaluate two classification models:
@@ -44,7 +47,6 @@ Four features were selected for modeling:
 
 These features were chosen based on visual dominance in count plots and biological relevance.
 
-## Model Performance Summary (Test Set)
 ## Model Performance Summary (Test Set)
 
 | Model Type          | Features Used                        | Accuracy | Precision | Recall | F1-Score | Notes                                           |
@@ -95,6 +97,26 @@ These features were chosen based on visual dominance in count plots and biologic
 - Explore feature importance scores from Random Forest
 - Perform hyperparameter tuning using GridSearchCV
 - Visualize decision boundaries and misclassified samples
+
+## Dataset 2: Wine Classification
+
+To demonstrate workflow generalization, a bonus section applies the same modeling process to the **Wine Recognition Dataset** from `sklearn.datasets`.
+
+This dataset contains 178 samples of wines from three cultivars, described by 13 numeric chemical features.  
+It’s a **multiclass classification** task, which allows us to test our models on a different structure and feature type.
+
+### Bonus Model Performance Summary
+
+| Model Type          | Accuracy | Notes                                                  |
+|---------------------|----------|--------------------------------------------------------|
+| Random Forest       | 100%     | Perfect classification across all three wine classes   |
+| Logistic Regression | 97%      | Misclassified one sample from Class 2 as Class 1       |
+
+### Key Insights
+
+- Random Forest maintained perfect precision and recall across all classes.
+- Logistic Regression performed well overall, but slightly underperformed on Class 2.
+- This bonus experiment reinforces the flexibility of our classification pipeline across binary and multiclass tasks.
 
 ## Setup Instructions
 
